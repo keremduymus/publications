@@ -1,1 +1,22 @@
-
+cff-version: 1.2.0
+message: "If you use these publications in your research, please cite the individual articles using their DOIs. To cite this repository as a whole, use the following reference."
+title: "Open-Access Publications of Kerem Duymus: Ottoman-African Relations, the Sahara, and the global history of West Africa"
+authors:
+  - family-names: Duymus
+    given-names: Kerem
+    orcid: "https://orcid.org/0009-0006-8404-6808"
+    website: "https://www.keremduymus.uk/"
+type: dataset
+repository-code: "https://github.com/keremduymus/publications"
+url: "https://www.keremduymus.uk/publications.html"
+abstract: "Open-access copies of publications by Kerem Duymus on the global history of Africa and West Asia."
+keywords:
+  - Ottoman history
+  - African history
+  - Sahara
+  - global history of Africa
+  - trans-Saharan trade
+  - West Africa
+  - open access
+license: CC-BY-4.0
+date-released: "2026-10-10"
