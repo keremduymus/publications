@@ -3,7 +3,7 @@
 **Duymus, Kerem (2026).** *Modern Africa: Politics, History and Society* (Czech Republic), 14(3), 63–91.
 
 - **DOI:** [10.26806/modafr.v14i3.782]((https://doi.org/10.26806/modafr.v14i3.782))
-- **PDF in this folder:** [duymus_hamadou_2026-ottoman-senegambia-relations.pdf](./duymus_2024-ottoman-sahara-policies.pdf)
+- **PDF in this folder:** [duymus_hamadou_2026-ottoman-senegambia-relations.pdf](./duymus_2026-ottoman-sahara-policies.pdf)
 - **More details:** [article page on keremduymus.uk](https://www.keremduymus.uk/articles/article17/article17.html)
 
 - ## Abstract
