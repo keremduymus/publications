@@ -19,15 +19,23 @@ the corresponding folder.
 
 | Year | Publication | Venue | Links |
 |------|-------------|-------|-------|
+| 2026 |  An Introduction to Studies of Afro-Ottoman History in Turkey  | *Modern Africa: Politics, History and Society* (Czech Republic) | [DOI](https://doi.org/10.26806/modafr.v14i3.858) · [Repository](./2026-Afro-Ottoman-Studies/) |
+| 2026 | A Global Historical Overview of Ottoman-Senegambia Relations: From the Historical Context in the 15th Century to Direct Relations in the 19th Century | *Modern Africa: Politics, History and Society* (Czech Republic) | [DOI](https://doi.org/10.26806/modafr.v14i3.782) · [Repository](./2026-ottoman-senegambia-relations/) |
 | 2026 | La dernière époque du commerce transsaharien au Sahara central (1850–1910) | *Mu Kara Sani* (Niger) | [DOI](https://doi.org/10.66107/mks00433) · [Repository](./2026-transsaharan-trade-central-sahara/) |
-| 2026 | Ottoman – Sokoto Relations During the 19th Century: An Untold History | *Sokoto Journal of History* (Nigeria) | [DOI](https://doi.org/10.5281/zenodo.19309546) · [Repository](./2026-ottoman-sokoto-relations/) |
-| 2025 | Afroglobal History of Siyasa in the Central Sudan During the 19th Century (PhD thesis) | Universität Leipzig | [Full text](https://nbn-resolving.org/urn:nbn:de:bsz:15-qucosa2-1003073) · [Repository](./2025-phd-afroglobal-siyasa/) |
 
 ## 📚 Complete Publication List
 
 ### Articles
 
 #### 2026
+
+**Duymus, Kerem. "An Introduction to Studies of Afro-Ottoman History in Turkey."**
+*Modern Africa: Politics, History and Society* (Czech Republic), 14(3), 5–25.
+[DOI](https://doi.org/10.26806/modafr.v14i3.858) · [Repository](./2026-Afro-Ottoman-Studies/) · [Details](https://www.keremduymus.uk/articles/article18/article18.html) 
+
+**Duymus, Kerem. "A Global Historical Overview of Ottoman-Senegambia Relations: From the Historical Context in the 15th Century to Direct Relations in the 19th Century."**
+*Modern Africa: Politics, History and Society* (Czech Republic), 14(3), 63–91.
+[DOI](https://doi.org/10.26806/modafr.v14i3.782) · [Repository](./2026-ottoman-senegambia-relations/) · [Details](https://www.keremduymus.uk/articles/article17/article17.html) 
 
 **Duymus, Kerem. "La dernière époque du commerce transsaharien au Sahara central (1850-1910): De l'implication ottomane aux massacres français."**
 *Mu Kara Sani* (Niger), 43, 53–71.
